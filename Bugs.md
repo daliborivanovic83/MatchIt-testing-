@@ -208,7 +208,7 @@ https://drive.google.com/file/d/1JxsHStjSHNTqRqrLnWA8wvhNReN7OYkQ/view?usp=drive
 
 web app (windows 10 )
 
-Summary: Visual bug in Oglasi section medior android developer “None”
+Summary: Visual bug in Oglasi section medior android developer "None"
 and all the other advertisements shown not only the one stated here.
 
 Steps to reproduce:
@@ -223,7 +223,7 @@ advertisement medior ios developer etc
 Actual result:
 
 When the user goes to this page there is a section called Iskustvo
-beneath it is a text “None” with an underline.
+beneath it is a text "None" with an underline.
 
 Expected result:
 
@@ -268,21 +268,21 @@ Steps to reproduce:
 
 3 open any chat listed second column on the left side
 
-4.Go to the first message in chat click on the … dots on the top right
+4.Go to the first message in chat click on the ... dots on the top right
 side (extra options)
 
 5\. A modal is opened
 
 Actual result:
 
-When the user goes to this section first message and clicks on … dots a
-modal is opened with additional options this modal is not fully
+When the user goes to this section first message and clicks on ... dots
+a modal is opened with additional options this modal is not fully
 displayed it is displayed partially.
 
 Expected result:
 
-When the user goes to this section first message and clicks on … dots a
-modal is opened with additional options this modal should be optimised
+When the user goes to this section first message and clicks on ... dots
+a modal is opened with additional options this modal should be optimised
 for all screen sizes from desktop to mobile.
 
 https://drive.google.com/file/d/1EzngOGEIDGn54YStDGf102JNkVXcOVg1/view?usp=drive_link
@@ -300,7 +300,7 @@ Steps to reproduce:
 3 open any chat listed second column on the left side
 
 4.Go to the first message in chat click on the two arrows pointing left
-besides … dots
+besides ... dots
 
 5\. A new section is opened called thread
 
@@ -378,7 +378,7 @@ Example ( screen sizes below Ipad pro dimensions reproduce this bug)
 
 https://drive.google.com/file/d/1964xG35XTUdRz96tKnMSPpe5fL6eCz5L/view?usp=drive_link
 
-https://drive.google.com/file/d/1oIC5upI_Y\_pJjtp9c385BhEo4JBUCSzi/view?usp=drive_link
+https://drive.google.com/file/d/1oIC5upI_Y_pJjtp9c385BhEo4JBUCSzi/view?usp=drive_link
 
 https://drive.google.com/file/d/1Wihy3oUS83bXcHbLSHZahSFAJTkV0rhy/view?usp=drive_link
 
@@ -397,7 +397,7 @@ Actual result:
 
 After the page is loaded the section svi oglasi is displayed properly
 until the certain screen size, when it is reduced to 763x1154 the
-columns “Izmeni” and “Dupliraj” overflow from the container .
+columns "Izmeni" and "Dupliraj" overflow from the container .
 
 Expected result:
 
@@ -411,7 +411,7 @@ https://drive.google.com/file/d/1YMMhZQ0alu1s-VVtleuT-u-schEvqW_5/view?usp=drive
 https://drive.google.com/file/d/1hUG95K6cPaJORenq70Jsjn7pMonpC-ZS/view?usp=drive_link
 
 Summary: Oglasi section -entry level android developer- matches
-section - the columns on the right “Matchat” and “Profil kandidata” are
+section - the columns on the right "Matchat" and "Profil kandidata" are
 shown together one under another at smaller screen sizes
 
 Steps to reproduce:
@@ -424,8 +424,8 @@ Steps to reproduce:
 
 Actual result:
 
-After the page is loaded columns on the right “Matchat” and “Profil
-kandidata” are displayed one to another until screen size is reduced to
+After the page is loaded columns on the right "Matchat" and "Profil
+kandidata" are displayed one to another until screen size is reduced to
 729x1154px, after that they are shown one under another and they are
 overlapping (standing one over the other with no space between them).
 
@@ -438,7 +438,7 @@ https://drive.google.com/file/d/18Q1XrNTAfaZqQabJP5C5HOs-ZqIrvJkr/view?usp=drive
 
 https://drive.google.com/file/d/1o_RSdYRjTgZ3U_C4Cy\_-rRWmrdUmEbkq/view?usp=drive_link
 
-Summary: Matchat -first chat in the column “Dalibor Ivanovic”-on slower
+Summary: Matchat -first chat in the column "Dalibor Ivanovic"-on slower
 network speeds (slow 3g) the complete chat is not loaded
 
 Steps to reproduce:
@@ -456,9 +456,132 @@ sizes the chat is not loaded completely.
 
 Expected result:
 
-Matchat with the chosen chat member “Dalibor Ivanovic” should be loaded
+Matchat with the chosen chat member "Dalibor Ivanovic" should be loaded
 
 Note:The same bug is reproduced when the whole matchat section is
 clicked on and redirected to.
 
-https://drive.google.com/file/d/1HE-K6CGlpR7oVFFNG85gd8MsmMsl1FHR/view?usp=drive_link
+<https://drive.google.com/file/d/1HE-K6CGlpR7oVFFNG85gd8MsmMsl1FHR/view?usp=drive_link>
+
+Summary:Oglasi tab - Medior IOS developer section is moved to the bottom
+of the page on mobile screen size.
+
+Steps to reproduce:\
+1 Log into the webpage\
+2 Go to oglasi section,\
+3 Select medior IOS developer\
+Note: (same is reproduced for all other advertisements in the oglasi
+section)
+
+Actual result:\
+after we click Svi oglasi button and choose Medior IOS developer section
+O projektu is moved to the bottom of the page above the footer on
+certain mobile screen sizes ( Iphone 14 pro max, Iphone 12 pro, Iphone
+X) .\
+Expected result:\
+after we click Svi oglasi button and choose Medior IOS developer section
+O projektu should be displayed properly for all mobile screen sizes.\
+<https://drive.google.com/file/d/1ZdeAMzmLhlc61qBTEwy2Hy3YU-PTnd2P/view?usp=drive_link>\
+<https://drive.google.com/file/d/1yrj_ZsEklSUg-tH9y7oA22OEeagL3A5i/view?usp=drive_link>\
+<https://drive.google.com/file/d/17X-sYAGSnZEM6A-awSOaVC6tgGpYRert/view?usp=drive_link>\
+<https://drive.google.com/file/d/1vMVlLPo95d_j9UyhmVUysOZbnrGUwVJu/view?usp=drive_link>\
+<https://drive.google.com/file/d/1Hv-u34WZM29Pz9JyfDhIgYLBleuh1R8V/view?usp=drive_link>\
+<https://drive.google.com/file/d/1Tc9Nj_TupA6n8VD0xMsrP_tHE41T1ZWf/view?usp=drive_link>
+
+# 
+
+# 
+
+# Summary:
+
+#  Oglasi section kreiranje oglasa - hamburger menu moves all the other elements out to the right side outside the mobile screen size
+
+# 
+
+Steps to reproduce:\
+1 Log into the webpage\
+2 Go to oglasi section,\
+3 Go to kreiraj novi oglas\
+3 Reduce screen size to mobile size choose iphone 14 pro
+
+Actual result:\
+After the page is loaded when the hamburger menu is clicked all the
+other content moves to the right outside of the current screen size and
+complete section Oglasi can be moved left or right by scrolling but the
+complete section is under the hamburger menu on the left side.\
+Expected result:\
+After the page is loaded Oglasi section should be displayed properly for
+all mobile screen sizes..\
+Example ( screen sizes below Ipad pro dimensions reproduce this bug)
+
+<https://drive.google.com/file/d/1964xG35XTUdRz96tKnMSPpe5fL6eCz5L/view?usp=drive_link>\
+<https://drive.google.com/file/d/1oIC5upI_Y_pJjtp9c385BhEo4JBUCSzi/view?usp=drive_link>\
+<https://drive.google.com/file/d/1Wihy3oUS83bXcHbLSHZahSFAJTkV0rhy/view?usp=drive_link>
+
+Summary:\
+Oglasi section - moves all the other elements out to the right side
+outside the mobile screen size
+
+Steps to reproduce:\
+1 Log into the webpage\
+2 Go to oglasi section,\
+3 reduce screen size
+
+Actual result:\
+After the page is loaded the section svi oglasi is displayed properly
+until the certain screen size, when it is reduced to 763x1154 the
+columns "Izmeni" and "Dupliraj" overflow from the container .\
+Expected result:\
+After the page is loaded Oglasi section should be displayed properly for
+all screen sizes.\
+Example (all screen sizes below Ipad pro dimensions reproduce this bug)
+
+<https://drive.google.com/file/d/1YMMhZQ0alu1s-VVtleuT-u-schEvqW_5/view?usp=drive_link>\
+<https://drive.google.com/file/d/1hUG95K6cPaJORenq70Jsjn7pMonpC-ZS/view?usp=drive_link>
+
+Summary:
+
+# Oglasi section -entry level android developer- matches section - the columns on the right "Matchat" and "Profil kandidata" are shown together, one under another on smaller screen sizes
+
+# 
+
+Steps to reproduce:\
+1 Log into the webpage\
+2 Go to oglasi section,\
+3 Choose entry level android developer go to matches and click
+
+Actual result:\
+After the page is loaded columns on the right "Matchat" and "Profil
+kandidata" are displayed one to another until screen size is reduced to
+729x1154px, after that they are shown one under another and they are
+overlapping (standing one over the other with no space between them).\
+Expected result:\
+After the page is loaded Matchesi section should be displayed properly
+for smaller screen sizes.
+
+<https://drive.google.com/file/d/18Q1XrNTAfaZqQabJP5C5HOs-ZqIrvJkr/view?usp=drive_link>
+
+Summary:
+
+# Matchat -first chat in the column "Dalibor Ivanovic"-on slower network speeds (slow 3g) the complete chat is not loaded
+
+# 
+
+Steps to reproduce:\
+1 Log into the webpage\
+2 Go to matchat section,\
+3 Choose Dalibor Ivanovic and open the chat
+
+Actual result:\
+On my windows 10 Google chrome browser on desktop and mobile screen
+sizes the chat is not loaded completely.\
+Expected result:\
+Matchat with the chosen chat member "Dalibor Ivanovic" should be loaded\
+Note:The same bug is reproduced when the whole matchat section is
+clicked on and redirected to.
+
+<https://drive.google.com/file/d/1HE-K6CGlpR7oVFFNG85gd8MsmMsl1FHR/view?usp=drive_link>
+
+# 
+
+# 
